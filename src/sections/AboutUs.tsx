@@ -18,7 +18,7 @@ const AboutUs = () => {
         <div>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Sunverge Nigeria</h2>
           <p className="text-lg text-gray-600 mb-6">
-            We&apos;re on a mission to make solar energy simple, affordable, and accessible to everyone in Nigeria. Whether you're powering your home, office, or community — we've got you covered with reliable solar solutions.
+            We&apos;re on a mission to make solar energy simple, affordable, and accessible to everyone in Nigeria. Whether you&rsquo;re powering your home, office, or community — we&rsquo;ve got you covered with reliable solar solutions.
           </p>
           <p className="text-gray-600 mb-6">
             With years of experience, certified technicians, and high-quality equipment, Sunverge delivers clean energy you can count on — rain or shine.

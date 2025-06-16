@@ -14,7 +14,7 @@ const Services = () => {
           🌞 Our Solar Services
         </h2>
         <p className="text-lg text-gray-600 mb-10 max-w-3xl mx-auto">
-          We offer complete solar solutions for homes, businesses, and communities across Nigeria. Whether you're just getting started or ready to upgrade, we've got you covered.
+          We offer complete solar solutions for homes, businesses, and communities across Nigeria. Whether youre just getting started or ready to upgrade, we&rsquo;ve got you covered.
         </p>
 
         {/* Services Grid */}
