@@ -8,7 +8,7 @@ const WhyChooseUs = () => {
           ⚡ Why Choose Sunverge Nigeria?
         </h2>
         <p className="text-lg text-gray-600 mb-10 max-w-3xl mx-auto">
-          We&apos;re not just another solar company — we&rsquo;re your trusted energy partner. Here's why hundreds of Nigerians rely on us for their power needs:
+          We&apos;re not just another solar company — we&rsquo;re your trusted energy partner. Heres why hundreds of Nigerians rely on us for their power needs:
         </p>
 
         {/* Features Grid */}
