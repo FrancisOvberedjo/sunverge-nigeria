@@ -43,7 +43,7 @@ const Services = () => {
           <div className="bg-gray-100 p-6 rounded-xl shadow hover:shadow-md transition">
             <h3 className="text-xl font-semibold mb-2">📊 Energy Assessment</h3>
             <p className="text-gray-700">
-              Not sure what you need? We’ll evaluate your energy usage and recommend the perfect system.
+              Not sure what you need? We&apos;ll evaluate your energy usage and recommend the perfect system.
             </p>
           </div>
 
